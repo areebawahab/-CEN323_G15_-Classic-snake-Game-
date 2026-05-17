@@ -40,4 +40,3 @@
 
 **🐍 Keep moving – and don't bite yourself!**
 
-## 🧠 Assembly Concepts Covered (11/12 labs)

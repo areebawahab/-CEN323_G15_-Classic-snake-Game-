@@ -23,7 +23,7 @@
 1. Open **emu8086**
 2. Load `snake.asm`
 3. Click **Emulate** (or `F5`)
-4. Play with `↑ ↓ ← →`
+4. Play with `W A S D`
 5. Game over? Press `R` to restart, `Esc` to quit
 
 ---
